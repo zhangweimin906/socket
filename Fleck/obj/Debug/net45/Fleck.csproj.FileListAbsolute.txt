@@ -1,0 +1,8 @@
+C:\Users\James\Downloads\Fleck-master\src\Fleck\bin\Debug\net45\Fleck.dll
+C:\Users\James\Downloads\Fleck-master\src\Fleck\bin\Debug\net45\Fleck.pdb
+C:\Users\James\Downloads\Fleck-master\src\Fleck\obj\Debug\net45\Fleck.csprojAssemblyReference.cache
+C:\Users\James\Downloads\Fleck-master\src\Fleck\obj\Debug\net45\Fleck.AssemblyInfoInputs.cache
+C:\Users\James\Downloads\Fleck-master\src\Fleck\obj\Debug\net45\Fleck.AssemblyInfo.cs
+C:\Users\James\Downloads\Fleck-master\src\Fleck\obj\Debug\net45\Fleck.csproj.CoreCompileInputs.cache
+C:\Users\James\Downloads\Fleck-master\src\Fleck\obj\Debug\net45\Fleck.dll
+C:\Users\James\Downloads\Fleck-master\src\Fleck\obj\Debug\net45\Fleck.pdb
