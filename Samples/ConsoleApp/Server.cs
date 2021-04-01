@@ -26,15 +26,6 @@ namespace Fleck.Samples.ConsoleApp
                         };
                     socket.OnMessage = message =>
                         {
-                            if (message == "james")
-                            {
-                                message = "真棒";
-                            }
-                            else if(message == "1")
-                            {
-                                message = "您输入的是1";
-                            }
-                            
                             Console.WriteLine(message);
                             allSockets.ToList().ForEach(s => s.Send("Echo: " + message));
                         };
